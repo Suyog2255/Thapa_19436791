@@ -1,0 +1,96 @@
+body
+{
+	margin: 0px;
+	padding: 0px;
+	font-family: Arial;
+}
+nav
+{
+	display:flex;
+	background-color: #e9e9e9;
+	position: sticky;
+
+}
+li
+{
+
+	list-style-type: none;
+	margin-left: 30px;
+	padding-top: 5px;
+}
+header
+{
+	background-image:url(header.jpg);
+	height: 100px;
+	text-align: center;
+	padding: 10px;
+	background-size: auto;
+}
+header p 
+{
+	margin-top: 50px;
+	color: white;
+}
+.button
+{
+  border: none;
+  padding: 15px 32px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 16px;
+  margin: 4px 2px;
+  cursor: pointer;
+}
+section
+{
+	
+	height: 950px;
+	display: flex;
+	flex-direction: column;
+	justify-content: space-between;
+}
+section a
+{
+	text-decoration: none;
+}
+
+footer
+{
+	height: 100px;
+	text-align: center;
+	padding: 10px;	
+	display: flex;
+	background-color: #5f4040;
+}
+footer li
+{
+	margin-top: 20px;
+}
+footer a
+{
+	color: white;
+	cursor: pointer;
+}
+nav a:hover
+{
+  background-color: #ddd;
+}
+.search-bar
+{
+      margin-left: 350px;
+      margin-top: 20px;
+
+}
+footer a:hover
+{
+	text-decoration: underline;
+}
+section div
+{
+	padding: 10px;
+}
+h2
+{
+	text-align: center;
+}

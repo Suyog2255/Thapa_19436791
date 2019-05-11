@@ -116,17 +116,16 @@ section .box:hover
     cursor: pointer;
     border:none;
     border-radius: 5px;
-    margin-left: 80%;
-    padding: 20px 70px;
+    margin-left: 85%;
+    padding: 10px 50px;
     background-color: #5dca5d;
-    position: absolute;
 }
 /*responsive mobile style*/
 @media screen and (max-width: 600px)
 {
 	.link
 	{
-		margin-left: 50%;
+		margin-left: 66%;
 	}
 }
 /*responsive tablet style*/ 

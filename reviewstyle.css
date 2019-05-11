@@ -117,16 +117,15 @@ section .box:hover
     border:none;
     border-radius: 5px;
     margin-left: 80%;
-    padding: 20px 70px;
+    padding: 10px 50px;
     background-color: #5dca5d;
-    position: absolute;
 }
 /*responsive mobile style*/
 @media screen and (max-width: 600px)
 {
 	.link
 	{
-		margin-left: 50%;
+		margin-left: 65%;
 	}
 }
 /*responsive tablet style*/ 

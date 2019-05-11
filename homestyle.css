@@ -115,8 +115,6 @@ section .center .upper
 }
 section h3
 {
-	position: absolute;
-	top: 90%;
 	right: 25%;
 	color: white;
 }

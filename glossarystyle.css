@@ -11,6 +11,11 @@ nav
 	position: sticky;
 
 }
+/* ul of header and footer*/
+ul
+{
+	display: flex;
+}
 li
 {
 
@@ -30,6 +35,7 @@ header p
 {
 	margin-top: 50px;
 	color: white;
+	font-size: 30px;
 }
 .button
 {
@@ -78,8 +84,8 @@ nav a:hover
 }
 .search-bar
 {
-      margin-left: 350px;
-      margin-top: 20px;
+     margin-left: 330px;
+     margin-top: 40px;
 
 }
 footer a:hover
